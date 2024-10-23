@@ -54,7 +54,8 @@ int main() {
 }
 ```
 ## OUTPUT:
-![Uploading Screenshot 2024-10-23 140507.png…]()
+![Screenshot 2024-10-23 140507](https://github.com/user-attachments/assets/73a30395-7fc6-4e2d-b417-20f55132d78e)
+
 
 
 ## RESULT:
